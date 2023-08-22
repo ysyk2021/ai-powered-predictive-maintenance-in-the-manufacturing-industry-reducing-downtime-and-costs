@@ -1,5 +1,4 @@
-Case studies of successful AI implementations in anomaly detection and root cause analysis
-=============================================================================================================================================================
+
 
 In this chapter, we will discuss case studies of successful AI implementations in anomaly detection and root cause analysis. These case studies demonstrate how AI can be used to improve equipment reliability, reduce downtime, and optimize maintenance activities in the manufacturing industry.
 

@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-=============================================================================================================================
+
 
 As organizations increasingly turn to AI-powered predictive maintenance programs, it is important to consider the ethical implications of AI use. This chapter covers the importance of AI ethics and governance for predictive maintenance and how to develop governance frameworks to ensure responsible AI use.
 

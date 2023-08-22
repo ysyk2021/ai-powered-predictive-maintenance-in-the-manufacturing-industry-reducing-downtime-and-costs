@@ -1,5 +1,4 @@
-Continuously adapting and improving your AI approach for predictive maintenance
-=========================================================================================================================================
+
 
 Artificial Intelligence (AI) can be a powerful tool for predictive maintenance in the manufacturing industry, but it's important to measure its impact and effectiveness. In this chapter, we will discuss best practices for measuring the effectiveness of AI for predictive maintenance and continuously adapting and improving your AI approach.
 

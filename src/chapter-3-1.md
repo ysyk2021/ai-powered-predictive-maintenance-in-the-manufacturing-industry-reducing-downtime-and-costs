@@ -1,5 +1,4 @@
-Assessing Your Predictive Maintenance Needs and Goals
-===========================================================================================================================
+
 
 Before implementing AI-powered predictive maintenance programs, organizations must assess their predictive maintenance needs and goals. This chapter covers how to assess your predictive maintenance needs and goals to ensure a successful AI implementation.
 

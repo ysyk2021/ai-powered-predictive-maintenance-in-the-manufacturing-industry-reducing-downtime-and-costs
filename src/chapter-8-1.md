@@ -1,5 +1,4 @@
-Overview of AI Applications for Anomaly Detection and Root Cause Analysis in Predictive Maintenance
-======================================================================================================================================================================
+
 
 Implementing AI-powered tools for anomaly detection and root cause analysis can significantly enhance the effectiveness of predictive maintenance in the manufacturing industry. Here are some examples of AI applications for anomaly detection and root cause analysis:
 

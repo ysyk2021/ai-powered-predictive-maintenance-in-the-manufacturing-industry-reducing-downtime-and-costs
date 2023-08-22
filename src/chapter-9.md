@@ -1,5 +1,4 @@
-Chapter 8: Measuring AI Impact on Predictive Maintenance
-========================================================
+
 
 In this chapter, we will discuss how to measure the impact of AI on predictive maintenance in the manufacturing industry. Specifically, we will focus on assessing the effectiveness of AI, identifying areas for improvement and refinement, and continuously adapting and improving your AI approach for predictive maintenance.
 

@@ -1,5 +1,4 @@
-Chapter 5: Using AI for Asset Health Monitoring
-===============================================
+
 
 In this chapter, we will discuss the use of Artificial Intelligence (AI) in asset health monitoring for predictive maintenance. We will provide an overview of AI applications for asset health monitoring, best practices for AI implementation in areas such as vibration analysis, temperature monitoring, and oil analysis, and case studies of successful AI implementations in asset health monitoring.
 
