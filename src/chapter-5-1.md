@@ -1,5 +1,4 @@
 
-
 Collecting and analyzing data is a critical component of predictive maintenance in the manufacturing industry. Here is an overview of data collection and analysis methods for predictive maintenance:
 
 Sensor Data from Equipment

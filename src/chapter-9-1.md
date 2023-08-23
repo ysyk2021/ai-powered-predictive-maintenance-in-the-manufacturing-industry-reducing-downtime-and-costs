@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how to assess the effectiveness of AI for predictive maintenance in the manufacturing industry. By measuring the impact of AI, organizations can identify areas for improvement and optimize their use of AI for predictive maintenance.
 
 Establishing Key Performance Indicators (KPIs)

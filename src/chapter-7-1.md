@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of the various AI applications that can be used for predictive maintenance scheduling in the manufacturing industry. These AI applications can help organizations improve maintenance planning, reduce downtime, and optimize their use of resources.
 
 Failure Prediction

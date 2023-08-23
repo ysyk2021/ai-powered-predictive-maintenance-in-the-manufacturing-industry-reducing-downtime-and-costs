@@ -1,5 +1,4 @@
 
-
 AI-powered predictive maintenance is a powerful tool for reducing downtime and costs in the manufacturing industry. One of the key components of AI-powered predictive maintenance is the use of different types of AI to analyze data and predict maintenance needs. This chapter covers the types of AI used for predictive maintenance.
 
 Machine Learning

@@ -1,5 +1,4 @@
 
-
 Before implementing AI-powered predictive maintenance programs, organizations must evaluate the availability and quality of data. This chapter covers how to evaluate data availability and quality to ensure successful AI implementation in predictive maintenance.
 
 Evaluating Data Availability

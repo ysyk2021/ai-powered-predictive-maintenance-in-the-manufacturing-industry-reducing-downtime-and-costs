@@ -1,5 +1,4 @@
 
-
 Asset health monitoring is a critical component of predictive maintenance, providing organizations with real-time insights into the condition of their equipment and machinery. By using Artificial Intelligence (AI) to analyze sensor data, organizations can detect anomalies and predict potential failures before they occur. In this chapter, we will provide an overview of AI applications for asset health monitoring in predictive maintenance.
 
 Vibration analysis

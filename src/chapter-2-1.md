@@ -1,5 +1,4 @@
 
-
 AI-powered predictive maintenance is a powerful tool for reducing downtime and costs in the manufacturing industry. This chapter covers the definition of AI-powered predictive maintenance and its benefits.
 
 Definition of AI-Powered Predictive Maintenance

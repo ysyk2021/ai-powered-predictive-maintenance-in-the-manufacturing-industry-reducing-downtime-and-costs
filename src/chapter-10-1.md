@@ -1,5 +1,4 @@
 
-
 As organizations increasingly adopt Artificial Intelligence (AI) for predictive maintenance in the manufacturing industry, it's important to consider ethical considerations and governance for AI implementation. In this chapter, we will discuss the ethical considerations that organizations should keep in mind when implementing AI for predictive maintenance.
 
 Bias and fairness

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss case studies of successful AI implementations in predictive maintenance scheduling. These case studies demonstrate how AI can be used to improve maintenance planning and reduce downtime in the manufacturing industry.
 
 Case Study 1: General Electric

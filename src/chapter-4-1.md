@@ -1,5 +1,4 @@
 
-
 Choosing the right AI tools and technologies is crucial for the success of predictive maintenance in the manufacturing industry. Here is an overview of AI tools and technologies for predictive maintenance:
 
 Machine Learning Algorithms
