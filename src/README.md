@@ -8,3 +8,7 @@ This book aims to provide a comprehensive overview of the use of AI in predictiv
 Overall, this book is intended to be a valuable resource for researchers, engineers, policymakers, and students interested in the field of predictive maintenance and its applications. It is our hope that this book will contribute to the development of more efficient and effective manufacturing processes using AI technology.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
