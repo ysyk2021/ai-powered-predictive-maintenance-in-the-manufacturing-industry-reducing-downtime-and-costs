@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Areas such as Vibration Analysis, Temperature Monitoring, and Oil Analysis
-===========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

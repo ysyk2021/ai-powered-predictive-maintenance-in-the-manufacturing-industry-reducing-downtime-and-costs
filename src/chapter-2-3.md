@@ -1,5 +1,4 @@
-Chapter: Benefits of AI for Reducing Downtime and Costs
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

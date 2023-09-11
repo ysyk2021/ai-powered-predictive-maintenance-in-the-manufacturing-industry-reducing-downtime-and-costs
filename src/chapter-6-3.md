@@ -1,5 +1,4 @@
-Chapter: Case Studies of Successful AI Implementations in Asset Health Monitoring
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
